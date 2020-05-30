@@ -1,2 +1,2 @@
 # sample-go-server
-Sample API server written in Go
+Sample web server written in Go
